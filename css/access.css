@@ -1,13 +1,13 @@
 html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent}
-body{line-height:1; font-family: chiller; font-weight: bold;}
-h1{font-size: 25px;}h2{font-size: 21px;}h3{font-size: 18px;}h4{font-size: 16px;}
+body{line-height:1; font-family: comic-sans; font-weight: bold;}
+h1{font-size: 32px;}h2{font-size: 21px;}h3{font-size: 18px;}h4{font-size: 16px;}
 article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}
 nav ul{list-style:none}
 blockquote,q{quotes:none}
 blockquote:before,blockquote:after,q:before,q:after{content:none}
 a{margin:0;padding:0;font-size:100%;vertical-align:baseline;background:transparent}
-ins{background-color:#ff9;color:#000;text-decoration:none}
-mark{background-color:#ff9;color:#000;font-style:italic;font-weight:bold}
+ins{background-color:#ffff00;color:#000;text-decoration:none}
+mark{background-color:#ffff00;color:#000; font-weight:bold}
 del{text-decoration:line-through}
 abbr[title],dfn[title]{border-bottom:1px dotted;cursor:help}
 table{border-collapse:collapse;border-spacing:0}
@@ -15,10 +15,10 @@ hr{display:block;height:1px;border:0;border-top:1px solid #ccc;margin:1em 0;padd
 input,select{vertical-align:middle}
 
 body,html {
-	background-color: black;
+	background-color: #ffff00;
 }
 header {
-    background: orange;
+    background: #ffff00;
     padding: 20px 30px;
     max-width: 940px;
     margin: auto;
@@ -27,7 +27,7 @@ nav {
     display: inline-block;
 }
 nav ul li a {
-    background: orange;
+    background: #ffff00;
     padding: 2px 10px;
     font-size: 20px;
     text-decoration: none;
@@ -36,7 +36,7 @@ nav ul li a {
     border-radius: 10px;
 }
 nav ul li a:hover {
-	background: orange;
+	background: #ffff00;
 }
 nav ul li {
     display: inline-block;
@@ -74,7 +74,7 @@ main section {
 	
 }
 footer {
-	background: orange;
+	background: #ffff00;
 	max-width: 1000px;
 	margin: auto;
 	clear: both;
@@ -89,7 +89,7 @@ address {
 }
 aside > div {
 	margin: 10px auto;
-	background: orange;
+	background: #ffff00;
 	min-height: 100px;
 	color: #000
 }
@@ -110,7 +110,7 @@ body > section {
     margin: auto;
     padding: 30px 0px;
     border-bottom: 1px solid #999;
-    color: orange;
+    color: #000;
 }
 
 @media screen and (max-width: 1000px) {
