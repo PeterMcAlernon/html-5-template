@@ -57,6 +57,7 @@ main {
 aside {
 	float: right;
 	width: 30%;
+	colour: black;
 }
 article {
     border-bottom: 2px dotted #999;
